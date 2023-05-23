@@ -16,33 +16,45 @@
   </p>
   <p>
     Nosso objetivo principal será criar um aplicativo que ajude visitantes a encontrarem companhia, independente do destyino da viagem. Algumas funcionalidades previamente pensadas são:
+    <ul type= "I">
    . menu para logar;
    . destinos em destaque;
    . campo de busca;
    . localizar viajantes próximos;
    . criar grupo de viagem;
-   
+   </ul>
  </p>
  <p>
    A partir desses pontos já é possível esboçar alguns sketches. Acrescentaremos um logo, um campo de busca, botões, e assim por diante. Planejamos três telas:
+   <ul type= "I">
    . telas;
    . perfil do viajante;
    . chat.
+   </ul>
 
  </p>
  <p>
   Agora, além de criarmos os esboços nós também já montamos as telas utilizando o PHOTOSHOP, já contratamos um desenvolvedor, criamos uma propaganda para o aplicativo e lançamos ele na App Store.
   Diante de todas essas circunstâncias observe o que aconteceu.
+  </p>
   <body>
   <img src="/home/escola/Imagens/imagem 1.png">
+  <p>
   Nosso aplicativo teve um pico de usuários de dez pessoas e, depois, esse número reduziu até zerar. Por que isso aconteceu com o aplicativo de viajantes?
   Isso aconteceu por que ás vezes o processo de UX é ignorado, e os profissionais seguem diretamente para o Design. 
+  </p>
+  <p>
   Outra abordagem para lidar com aplicativos é pensar mais e melhor na estratégia, assim, em vez de começarmos a elaborar diversas funcionabilidades, vamos refletir: REALMENTE FAZ SENTIDO IMPLEMENTAR TODAS ELAS?
-  Pensar mais antes de agir é interessante, pois nos tornamos mais assertivos! A estratégia nos direciona a entender com mais clareza sobre QUAIS SÃO NOSSOS REAIS OBJETIVOS.
-  Nesse curso de UX Strategy, falaremos sobre ESTRATÉGIA VOLTADA PARA EXPERIÊNCIA DO USUÁRIO, veremos diversas ferramentas como: persona, proto, value propositions canvas, 360 view, pesquisas e exercícios.esse
-  curso 
-                                                                                                        
-  
+  </p>
+  <p>
+  Pensar mais antes de agir é interessante, pois nos tornamos mais assertivos! A estratégia nos direciona a entender com mais clareza sobre <strong>QUAIS SÃO NOSSOS REAIS OBJETIVOS</strong>.
+  </p>
+  Nesse curso de UX Strategy, falaremos sobre <strong>ESTRATÉGIA VOLTADA PARA EXPERIÊNCIA DO USUÁRIO</strong>, veremos diversas ferramentas como: persona, proto, value propositions canvas, 360 view, pesquisas e exercícios.esse
+  curso será focado na parte mais abstrata da <strong>UX Strategy</strong>, como em levantamento de requisitos, priorização e organização de ideias!
+  </p>
+ <p>
+ <strong>NÃO</strong> abordaremos os assuntos Design, prototipação ou testes de usabilidade.
+  </p>
 </body>
 
 </html>
